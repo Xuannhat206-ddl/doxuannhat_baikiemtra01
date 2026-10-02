@@ -10,7 +10,7 @@
 
 
 
-![TC01](Images/TestCace1.png)
+![TestCase1](Images/TestCase1.png)
 
 
 
@@ -22,7 +22,7 @@
 
 
 
-![TC02](Images/TestCace2.png)
+![TestCase2](Images/TestCase2.png)
 
 
 
@@ -34,7 +34,7 @@
 
 
 
-![TC03](Images/TestCace3.png)
+![TestCase3](Images/TestCase3.png)
 
 
 
@@ -46,7 +46,7 @@
 
 
 
-![TC04](Images/TestCace4.png)
+![TestCase4](Images/TestCase4.png)
 
 
 
@@ -58,4 +58,4 @@
 
 
 
-![TC05](Images/TestCace5.png)
+![TestCase5](Images/TestCase5.png)
