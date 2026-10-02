@@ -1,0 +1,4 @@
+D:\CSap\Bai2\Bai2\obj\Debug\net10.0\AutoSpeed.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSap\Bai2\Bai2\obj\Debug\net10.0\AutoSpeed.AssemblyInfoInputs.cache
+D:\CSap\Bai2\Bai2\obj\Debug\net10.0\AutoSpeed.AssemblyInfo.cs
+D:\CSap\Bai2\Bai2\obj\Debug\net10.0\AutoSpeed.csproj.CoreCompileInputs.cache

@@ -1,0 +1,15 @@
+D:\Downloads\TechMartProductManager\TechMartProductManager\bin\Debug\net8.0-windows\TechMartProductManager.exe
+D:\Downloads\TechMartProductManager\TechMartProductManager\bin\Debug\net8.0-windows\TechMartProductManager.deps.json
+D:\Downloads\TechMartProductManager\TechMartProductManager\bin\Debug\net8.0-windows\TechMartProductManager.runtimeconfig.json
+D:\Downloads\TechMartProductManager\TechMartProductManager\bin\Debug\net8.0-windows\TechMartProductManager.dll
+D:\Downloads\TechMartProductManager\TechMartProductManager\bin\Debug\net8.0-windows\TechMartProductManager.pdb
+D:\Downloads\TechMartProductManager\TechMartProductManager\obj\Debug\net8.0-windows\TechMartProductManager.GeneratedMSBuildEditorConfig.editorconfig
+D:\Downloads\TechMartProductManager\TechMartProductManager\obj\Debug\net8.0-windows\TechMartProductManager.AssemblyInfoInputs.cache
+D:\Downloads\TechMartProductManager\TechMartProductManager\obj\Debug\net8.0-windows\TechMartProductManager.AssemblyInfo.cs
+D:\Downloads\TechMartProductManager\TechMartProductManager\obj\Debug\net8.0-windows\TechMartProductManager.csproj.CoreCompileInputs.cache
+D:\Downloads\TechMartProductManager\TechMartProductManager\obj\Debug\net8.0-windows\TechMartProductManager.dll
+D:\Downloads\TechMartProductManager\TechMartProductManager\obj\Debug\net8.0-windows\refint\TechMartProductManager.dll
+D:\Downloads\TechMartProductManager\TechMartProductManager\obj\Debug\net8.0-windows\TechMartProductManager.pdb
+D:\Downloads\TechMartProductManager\TechMartProductManager\obj\Debug\net8.0-windows\TechMartProductManager.genruntimeconfig.cache
+D:\Downloads\TechMartProductManager\TechMartProductManager\obj\Debug\net8.0-windows\ref\TechMartProductManager.dll
+D:\Downloads\TechMartProductManager\TechMartProductManager\obj\Debug\net8.0-windows\TechMart.91035920.Up2Date
