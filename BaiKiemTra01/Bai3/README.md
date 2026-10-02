@@ -22,7 +22,7 @@
 
 
 
-![TestCase2](Images/TestCase2.png)
+![Testcase2](Images/Testcase2.png)
 
 
 
@@ -34,7 +34,7 @@
 
 
 
-![TestCase3](Images/TestCase3.png)
+![Testcase3](Images/Testcase3.png)
 
 
 
@@ -46,7 +46,7 @@
 
 
 
-![TestCase4](Images/TestCase4.png)
+![Testcase4](Images/Testcase4.png)
 
 
 
@@ -58,4 +58,4 @@
 
 
 
-![TestCase5](Images/TestCase5.png)
+![Testcase5](Images/Testcase5.png)
